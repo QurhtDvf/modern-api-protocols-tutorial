@@ -168,10 +168,6 @@ uvicorn responses_api_server:app --host 0.0.0.0 --port 8000
 
 ## セットアップ
 
-### 必要なもの
-
-- Google アカウント（Google Colab 利用のため）
-- それだけです。ngrok アカウントも Hugging Face トークンも不要です。
 
 ### 手順
 
